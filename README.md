@@ -19,7 +19,7 @@
 
 ### My github stats
 <a href="https://github.com/SamedHOPA/github-readme-stats">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=mirhatfidan&show_icons=true&theme=radical" />
+  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=SamedHOPA&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/SamedHOPA/github-readme-stats">
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHOPA&layout=compact&theme=radical" />
