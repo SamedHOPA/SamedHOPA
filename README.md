@@ -1,4 +1,4 @@
-<img src="[gorsel-link](https://github.com/SamedHOPA/SamedHOPA/blob/main/izn1VxI.gif)" width="auto">
+<img src="https://github.com/SamedHOPA/SamedHOPA/blob/main/izn1VxI.gif" width="auto">
 
 <h1 align="center">Hi 👋, I'm Samed HOPA</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
