@@ -1,7 +1,7 @@
 <img src="https://github.com/SamedHOPA/SamedHOPA/blob/main/izn1VxI.gif" width="200%" height="300px">
 
 <h1 align="center">Hi 👋, I'm Samed HOPA</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A junior software developer from Turkey</h3>
 
 - 🔭 I’m currently working on **42Cursus**
 
