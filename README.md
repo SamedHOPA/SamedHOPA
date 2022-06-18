@@ -1,4 +1,4 @@
-<img src="https://github.com/SamedHOPA/SamedHOPA/blob/main/izn1VxI.gif" width="100%" height="500px">
+<img src="https://github.com/SamedHOPA/SamedHOPA/blob/main/142.png" width="100%" height="500px">
 
 <h1 align="center">Hi 👋, I'm Samed HOPA</h1>
 <h3 align="center">A junior software developer from Turkey</h3>
