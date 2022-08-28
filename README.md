@@ -30,3 +30,7 @@
 <a href="https://github.com/SamedHOPA/github-readme-stats">
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedHOPA&layout=compact&theme=radical" />
 </a>
+<a div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="samedhopa" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/samedhopa?trk=profile-badge">Samed HOPA</a>
+  </a>
+  
