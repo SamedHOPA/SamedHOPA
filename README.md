@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/channel/UCIKOnKB-enyWCrbfjdTXphQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SamedHOPA" height="30" width="40" /></a>
 </p>
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="samedhopa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/samedhopa?trk=profile-badge">Samed HOPA</a></div>
               
 
